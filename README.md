@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Bhargavtomar
+- I have good knowledge in C , C++ and JAVA. 
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...c language & java begginners
 - 💞️ I’m looking to collaborate on ...
